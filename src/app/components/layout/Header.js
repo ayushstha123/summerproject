@@ -9,7 +9,7 @@ export default function Header(){
       <Link href={''}>Menu</Link>
       <Link href={''}>About</Link>
       <Link href={''}>Contact</Link>
-      <Link href={''} className="bg-green-500 px-6 py-2 rounded-full text-white">Login</Link>
+      <Link href={''} className="bg-green-700 px-6 py-2 rounded-full font-bold text-white">Login</Link>
       </nav>
     </header>
     )

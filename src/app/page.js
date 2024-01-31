@@ -4,6 +4,7 @@ import Header from "./components/layout/Header";
 import Hero from "./components/layout/hero";
 import HeroMenu from "./components/layout/HomeMenu";
 import Packages from "./components/layout/Packages";
+import Footer from "./components/layout/Footer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
     <Hero/>
     <HeroMenu/>
     <Packages/>
+    <Footer/>
     </>
   );
 }
