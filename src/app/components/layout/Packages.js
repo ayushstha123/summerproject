@@ -9,7 +9,7 @@ export default function Packages() {
                     Our Packages
                 </h2>
             </div>
-            <div className=" grid grid-cols-1 md:grid-cols-3 p-10 gap-5 ">
+            <div className=" grid grid-cols-1 self-center md:grid-cols-3 pt-5 md:p-10 gap-5 ">
             <PackageItems/>
             <PackageItems/>
             <PackageItems/>
